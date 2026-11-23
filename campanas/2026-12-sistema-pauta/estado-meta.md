@@ -1,6 +1,6 @@
-# Estado en Meta Ads (23-nov-2026)
+# Estado en Meta Ads (actualizado 23-nov-2026)
 
-Cuenta: Rox_Panama. Todo está **en pausa**: no gasta hasta que se active.
+Cuenta: Rox_Panama. **Activada el 23-nov-2026 a las 13:29** (hora de Panamá) por pedido de Marketing; antes de eso estuvo en pausa.
 
 ## Campaña
 - **ROX | Leads | Test drive Luxury | Dic 2026** (ID 120250465125600510)
